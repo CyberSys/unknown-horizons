@@ -21,7 +21,6 @@ tab1:
   - _ Military
   - BUILDINGS.BARRIER
 
-
 tab2:
 - icon: icons/tabwidget/buildmenu/tier/tier2
 -
@@ -42,7 +41,6 @@ tab2:
   - BUILDINGS.FIRE_STATION
   - BUILDINGS.BOAT_BUILDER
   - BUILDINGS.WOODEN_TOWER
-
 
 tab3:
 - icon: icons/tabwidget/buildmenu/tier/tier3
@@ -96,6 +94,21 @@ tab4:
   - BUILDINGS.WEAPONSMITH
   - BUILDINGS.CANNON_FOUNDRY
   - BUILDINGS.BARRACKS 
+
+tab5:
+- icon: icons/tabwidget/buildmenu/tier/tier5
+-
+  - _ Companies
+#  - BUILDINGS.SALINE
+#  - # empty slot
+#  - # empty slot
+#  - # empty slot
+-
+  - _ Services
+  - BUILDINGS.PUBLIC_BATH
+#  - # empty slot
+#  - # empty slot
+#  - # empty slot
 
 meta:
   unlocking_strategy: tab_per_tier
